@@ -94,7 +94,7 @@
       "use_dio3_tcxo": true,
       "preamble_length": 17
       },
-      "ZebraHat" {
+      "ZebraHat": {
       "name": "ZebraHat",
       "bus_id": 0,
       "cs_id": 0,
